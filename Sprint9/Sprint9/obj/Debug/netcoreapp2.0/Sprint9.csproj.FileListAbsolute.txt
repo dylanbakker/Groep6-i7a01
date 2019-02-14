@@ -1,0 +1,11 @@
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\bin\Debug\netcoreapp2.0\Sprint9.deps.json
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\bin\Debug\netcoreapp2.0\Sprint9.runtimeconfig.json
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\bin\Debug\netcoreapp2.0\Sprint9.runtimeconfig.dev.json
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\bin\Debug\netcoreapp2.0\Sprint9.dll
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\bin\Debug\netcoreapp2.0\Sprint9.pdb
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.csprojAssemblyReference.cache
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.csproj.CoreCompileInputs.cache
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.AssemblyInfoInputs.cache
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.AssemblyInfo.cs
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.dll
+D:\semester 4\groep6\Sprint9\Sprint9\Sprint9\obj\Debug\netcoreapp2.0\Sprint9.pdb

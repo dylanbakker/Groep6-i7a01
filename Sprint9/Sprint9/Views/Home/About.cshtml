@@ -1,0 +1,24 @@
+﻿@model User
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<!--<form method="POST">
+    <label for="firstName">Your first name</label>
+    <input type="text" id="firstName" placeholder="Your name goes here" name="firstName"/>
+    <input type="submit" />
+</form>-->
+
+<form asp-action="About" asp-controller="Home">
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName" placeholder="Je voornaam" />
+    <input type="submit" />
+</form>
+<!--using (Html.BeginForm("About", "Home", FormMethod.Post))
+{
+    Html.TextBoxFor(model => model.name)
+    Html.ValidationMessageFor(model => model.name)
+    <button type="submit">Subscribe</button>
+}-->
