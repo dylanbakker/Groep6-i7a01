@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSharp", "SoundSharp\SoundSharp.csproj", "{36884122-7B48-42BA-BBEB-6F08B6C516AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36884122-7B48-42BA-BBEB-6F08B6C516AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36884122-7B48-42BA-BBEB-6F08B6C516AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36884122-7B48-42BA-BBEB-6F08B6C516AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36884122-7B48-42BA-BBEB-6F08B6C516AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2B0D38-8450-4CF5-B5D6-4CB6C0DBA1E4}
+	EndGlobalSection
+EndGlobal

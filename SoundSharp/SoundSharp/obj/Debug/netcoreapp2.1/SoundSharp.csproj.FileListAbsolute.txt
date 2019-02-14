@@ -1,0 +1,11 @@
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.1\SoundSharp.deps.json
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.1\SoundSharp.runtimeconfig.json
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.1\SoundSharp.runtimeconfig.dev.json
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.1\SoundSharp.dll
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\bin\Debug\netcoreapp2.1\SoundSharp.pdb
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.csprojAssemblyReference.cache
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.csproj.CoreCompileInputs.cache
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.AssemblyInfoInputs.cache
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.AssemblyInfo.cs
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.dll
+D:\semester 4\groep6\Sprint9\SoundSharp\SoundSharp\obj\Debug\netcoreapp2.1\SoundSharp.pdb
